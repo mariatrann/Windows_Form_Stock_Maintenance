@@ -1,0 +1,9 @@
+1	V-Layer	V cut	30	45	True
+6	Eyebrow Waxing	waxing	20	30	True
+12	Ombre	pretty hair	200	120	True
+5	Hair Dye	dye dye dye	30	0	False
+2	U-Layer	U cut	30	40	True
+4	Curling Iron	curly curly	50	0	False
+10	Mustache Waxing	ITSA ME MARIO	20	30	True
+11	Wax Supply	wax wax	35	0	False
+19	Hairbrush	brush brush	20	0	False
